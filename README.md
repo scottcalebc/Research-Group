@@ -1,3 +1,6 @@
 List of Current Pages:
- - [[LG-Net]]
- - [[Genetic Algorithm-based Compressed Learning]]
+ - [LG-Net](Papers/LG-Net)
+ - [GACL Wavelet DeepCNN](Papers/Comrpessive Wavelet DeepCNN)
+
+List of covered Algorithms:
+ - [GACL](Papers/Genetic algorithm-based Compressed Learning)

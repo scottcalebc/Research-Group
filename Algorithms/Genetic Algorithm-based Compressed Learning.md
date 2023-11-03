@@ -2,6 +2,7 @@
 
 From [[Compressive Wavelet DeepCNN]]
 
+[gacl-algo](Images/GACL-outline.png)
 ![[GACL-outline.png]]
 This figure details the steps for the genetic algorithm for learning a binary mask. The binary mask is then applied to the original image as a  [[Compressive Sensing |CS]] framework.
 
