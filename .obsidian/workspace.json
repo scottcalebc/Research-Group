@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Compressive Wavelet DeepCNN.md",
+                "file": "Genetic Algorithm-based Compressed Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Compressive Wavelet DeepCNN.md",
+                "file": "Genetic Algorithm-based Compressed Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Compressive Wavelet DeepCNN.md",
+                "file": "Genetic Algorithm-based Compressed Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Compressive Wavelet DeepCNN.md"
+                "file": "Genetic Algorithm-based Compressed Learning.md"
               }
             }
           }
@@ -155,9 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ca9a6870a0f7974",
+  "active": "2cec89ca16de834e",
   "lastOpenFiles": [
-    "Papers",
-    "Papers/Compressive Wavelet DeepCNN.md"
+    "GACL-outline.png",
+    "Genetic Algorithm-based Compressed Learning.md",
+    "Papers/Compressive Wavelet DeepCNN.md",
+    "Papers"
   ]
 }
