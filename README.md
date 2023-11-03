@@ -3,4 +3,4 @@ List of Current Pages:
  - [GACL Wavelet DeepCNN](Papers/Compressive Wavelet DeepCNN)
 
 List of covered Algorithms:
- - [GACL](Papers/Genetic algorithm-based Compressed Learning)
+ - [GACL](Papers/Genetic Algorithm-based Compressed Learning)
