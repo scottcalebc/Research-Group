@@ -1,4 +1,6 @@
 #compressivesensing #deeplearning #CNN #WaveletDomain #geneticalgorithm 
+
+[https://ieeexplore.ieee.org/abstract/document/10092889](Paper) 
 # Introduction
 
 [[ Deep CNN ]] is a robust method to classify an image, when the test image is compressed the accuracy falls. Can be overcomed by training models in the compressed domain which enables faster communication and the need for reconstruction. Compressed Domain Inference is proposed by Calderbank et al. use a [[ Support Vector Machine | SVM ]] for this task and proved classification used the [[ Rate-Adaptive Network ]] proposed by Davenport et al.
